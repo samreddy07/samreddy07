@@ -5,14 +5,14 @@ I want to become a software engineer who is passionate about open-source, creati
 </br>
 </br>
 
-- 🔭 I’m currently studing at [Chandigarh University] 
+- 🔭 I’m currently studing at AIT 
 - 👯 I would love to collaborate on Hackathons
 - 💬 Brainstorm with me over tech, algorithms, Architecture Design, and carrer
 - 😄 Pronouns: He/Him
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning Java
 - ⚡ Fun fact: I absolutely love to binge watch, chill-code live stream
 
-## Find me around the web 🌎:
+## Find me on web 🌎:
 
-- Sharing updates on <a href="https://www.linkedin.com/in/gorla-samarasimha-reddy-2a193a1b9/">LinkedIn</a> 💼
-- Learning on <a href="https://twitter.com/samreddy07">Twitter</a> :bird:
+<li> Sharing updates on <a href="https://www.linkedin.com/in/gorla-samarasimha-reddy-2a193a1b9/">LinkedIn</a> 💼 </li>
+<li> Learning on <a href="https://twitter.com/samreddy07">Twitter</a> :bird: </ls>
