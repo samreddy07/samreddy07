@@ -10,7 +10,7 @@ I want to become a software engineer who is passionate about open-source, creati
 - 💬 Brainstorm with me over tech, algorithms, Architecture Design, and carrer
 - 😄 Pronouns: He/Him
 - 🌱 I’m currently learning Java
-- ⚡ Fun fact: I absolutely love to binge watch, chill-code live stream
+- ⚡ Fun fact: 
 
 ### Connect with me:
 
